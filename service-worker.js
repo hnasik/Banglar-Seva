@@ -1,5 +1,5 @@
 
-const CACHE_NAME = "banglar-seva-v1";
+const CACHE_NAME = "banglar-seva-v3";
 
 const urlsToCache = [
   "./",
